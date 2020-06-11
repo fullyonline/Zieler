@@ -1,0 +1,2 @@
+cl_pdump 1		-> Player zustand (In der Luft, etc.)
+
